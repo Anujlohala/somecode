@@ -12,3 +12,6 @@ print(d)
 
 e = "Girija"
 print(e)
+
+f = "asmita"
+print(f)
