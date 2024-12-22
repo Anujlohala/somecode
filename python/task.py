@@ -6,3 +6,6 @@ print(b)
 
 c = "manin"
 print(c)
+
+d = "sandesh"
+print(d)
