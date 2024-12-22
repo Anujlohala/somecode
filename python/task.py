@@ -1,2 +1,5 @@
-a="anuj"
+a = "anuj"
 print(a)
+
+b = "subash"
+print(b)
