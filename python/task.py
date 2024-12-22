@@ -9,3 +9,6 @@ print(c)
 
 d = "sandesh"
 print(d)
+
+e = "Girija"
+print(e)
